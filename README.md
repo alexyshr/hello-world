@@ -1,3 +1,3 @@
 # hello-world
-GitHub Starting Tutorial
+Delete the content of this line
 Hi recontra chimba, acá reportandome
